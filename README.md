@@ -1,9 +1,8 @@
 # This is a todo list project 
+Learned about:
 
-```
-This is a code block 
-```
+- User login, logout, register application in form based views
+- CRUD functions in class based views
 
-- This is a bullet point
-
-- [x] This is a checkbox
+- Tutorial followed:
+https://www.youtube.com/watch?v=llbtoQTt4qw
